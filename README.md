@@ -2,12 +2,10 @@
   <h2> <a href="https://github.com/pisilinux">Pisi Linux</a></h2>
   <p>🇹🇷 Türkiye'den dünyaya açık kaynak dağıtım</p>
   <p>🇬🇧 Open-source Linux distribution from Turkiye</p>
----
-    <img src="https://github.com/epiusu/pisimibil/blob/main/psilinux24.gif" alt="psilinux24">
-  </a>
+
+  <img src="https://github.com/epiusu/pisimibil/blob/main/psilinux24.gif" alt="psilinux24">
 </div>
 
----
 
 ## 🇹🇷 / 🇬🇧 Hakkında / About
 Pisi Linux, hızlı, güvenli ve kullanıcı dostu bir GNU/Linux dağıtımıdır. PiSi paket yöneticisi ile kolay kurulum, otomatik bağımlılık çözümü ve kesintisiz güncellemeler sunar.  
