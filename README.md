@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="logo.png" alt="Pisi Linux" width="120" style="margin-bottom: 12px;" />
-  <h1>Pisi Linux</h1>
+  <h2> <a href="https://github.com/pisilinux">Pisi Linux</a></h2>
   <p>🇹🇷 Türkiye'den dünyaya açık kaynak dağıtım</p>
-  <p>🇬🇧 Open-source Linux distribution from Turkey</p>
-  
-  <a href="https://pisilinux.github.io/your-repo">
-    <img src="https://img.shields.io/badge/🌐_Live_Site-00A98F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Site">
+  <p>🇬🇧 Open-source Linux distribution from Turkiye</p>
+---
+    <img src="https://github.com/epiusu/pisimibil/blob/main/psilinux24.gif" alt="psilinux24">
   </a>
 </div>
 
@@ -32,3 +30,5 @@ wget https://releases.pisilinux.org/latest/PisiLinux-x86_64.iso
 
 # USB yaz / Write to USB
 sudo dd if=PisiLinux-x86_64.iso of=/dev/sdX bs=4M status=progress
+
+
