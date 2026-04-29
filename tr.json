@@ -1,0 +1,16 @@
+// tr.json
+{
+  "title": "Pisi Linux",
+  "about": "Türkiye'den dünyaya açık kaynak dağıtım",
+  "features_title_text": "Temel Özellikler",
+  "feat1": "PiSi Paket Yöneticisi",
+  "feat2": "Güvenli & Güncel",
+  "feat3": "Çoklu Dil Desteği",
+  "feat4": "Hafif & Esnek",
+  "links_title_text": "Bağlantılar",
+  "link_docs": "Dokümantasyon",
+  "link_github": "GitHub",
+  "link_download": "İndir",
+  "link_community": "Topluluk",
+  "footer": "2026 Pisi Linux | GPLv3 | Açık Kaynak & Özgür Yazılım"
+}

@@ -1,0 +1,16 @@
+// en.json
+{
+  "title": "Pisi Linux",
+  "about": "Open-source distribution from Turkiye to the world",
+  "features_title_text": "Key Features",
+  "feat1": "PiSi Package Manager",
+  "feat2": "Secure & Up-to-date",
+  "feat3": "Multi-language Support",
+  "feat4": "Lightweight & Flexible",
+  "links_title_text": "Links",
+  "link_docs": "Documentation",
+  "link_github": "GitHub",
+  "link_download": "Download",
+  "link_community": "Community",
+  "footer": "2026 Pisi Linux | GPLv3 | Open Source & Free Software"
+}
